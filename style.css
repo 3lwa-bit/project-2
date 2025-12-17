@@ -1,0 +1,396 @@
+body {
+        background: linear-gradient(
+        122deg,
+        #1e202a,
+        #1b1d27
+    );
+    color: white;
+    height: 300px;
+}
+.s1 {
+    position: absolute;
+    left: 60px;
+    font-size: 25px;
+}
+.d1 {
+    position: absolute;
+    left: 1165px;
+    bottom: 555px;
+    font-size: 15px;
+    opacity: 65%;
+}
+.t1 {
+    position: absolute;
+    left: 60px;
+    bottom: 520px;
+    font-size: 15px;
+    opacity: 65%;
+}
+.container {
+    display: inline-block;
+}
+.card1 {
+        display: inline-block;
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    border-top: 4px solid #1877d2;
+    height: 200px;
+    margin-top: 120px;
+    margin-left: 45px;
+    margin-right: 25px;
+    width: 200px;
+}
+.card1 h6{
+    opacity: 40%;
+    display: inline;
+    position: relative;
+    left: 10px;
+}
+.card1-foll {
+    opacity: 40%;
+    position: relative;
+    bottom: 175px;
+}
+.card1 h5 {
+    font-size: 60px;
+    position: relative;
+    bottom: 80px;
+}
+.card1 h7 {
+    color: #1db489;
+    position: relative;
+    bottom: 120px;
+}
+.card2 {
+    display: inline-block;
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    border-top: 4px solid #1877d2;
+    height: 200px;
+    margin-top: 120px;
+    margin-left: 45px;
+    margin-right: 25px;
+    width: 200px;
+}
+.card2 h6{
+    opacity: 40%;
+    display: inline;
+    position: relative;
+    left: 10px;
+}
+.card2-foll {
+    opacity: 40%;
+    position: relative;
+    bottom: 175px;
+}
+.card2 h5 {
+    font-size: 60px;
+    position: relative;
+    bottom: 80px;
+}
+.card2 h7 {
+    color: #1db489;
+    position: relative;
+    bottom: 120px;
+}
+.card3 {
+    background:#252b43;
+    padding: 25px;
+    border-top: 4px solid;
+    border-image: linear-gradient(
+    to right,
+    #fdc468,
+    #df4996
+) 1;
+    border-radius: 8px;
+    width: 200px;
+    color: white;
+    height: 200px;
+    margin-top: 120px;
+    margin-left: 45px;
+    display: inline-block;
+        margin-right: 25px;
+
+}
+.card3 h6{
+    opacity: 40%;
+    display: inline;
+    position: relative;
+    left: 10px;
+}
+.card3-foll {
+    opacity: 40%;
+    position: relative;
+    bottom: 175px;
+}
+.card3 h5 {
+    font-size: 60px;
+    position: relative;
+    bottom: 80px;
+}
+.card3 h7 {
+    color: #1db489;
+    position: relative;
+    bottom: 120px;
+}
+.card4 {
+    display: inline-block;
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    border-top: 4px solid #c4032a;
+    height: 200px;
+    margin-top: 120px;
+    margin-left: 45px;
+}
+.card4 h6{
+    opacity: 40%;
+    display: inline;
+    position: relative;
+    left: 10px;
+}
+.card4 -foll {
+    opacity: 40%;
+    position: relative;
+    bottom: 175px;
+}
+.card4 h5 {
+    font-size: 60px;
+    position: relative;
+    bottom: 80px;
+}
+.card4 h7 {
+    color: #c4032a
+;
+    position: relative;
+    bottom: 120px;
+}
+.o2 {
+    margin-left: 60px;
+}
+.container2 {
+    display: inline-block;
+}
+.over1{
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    color: white;
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.over1 h4 {
+    opacity: 40%;
+    position: relative;
+    bottom: 40px;
+}
+.over1 h5 {
+    font-size: 50px;
+    position: relative;
+    bottom: 90px;
+}
+.over1 h3 {
+    color: #1db489;
+    position: relative;
+    bottom: 210px;
+    left: 190px;
+}
+.over2 {
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    color: white;
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+
+}
+.over2 h4 {
+    opacity: 40%;
+    position: relative;
+    bottom: 40px;
+}
+.over2 h5 {
+    font-size: 50px;
+    position: relative;
+    bottom: 90px;
+}
+.over2 h3 {
+    color: #c4032a;
+    position: relative;
+    bottom: 210px;
+    left: 190px;
+}
+.over3 {
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    color: white;
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+
+}
+.over3 h4 {
+    opacity: 40%;
+    position: relative;
+    bottom: 40px;
+}
+.over3 h5 {
+    font-size: 50px;
+    position: relative;
+    bottom: 90px;
+}
+.over3 h3 {
+    color: #1db489;
+    position: relative;
+    bottom: 210px;
+    left: 190px;
+}
+.over4 {
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    color: white;
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+}
+.over4 h4 {
+    opacity: 40%;
+    position: relative;
+    bottom: 40px;
+}
+.over4 h5 {
+    font-size: 50px;
+    position: relative;
+    bottom: 90px;
+}
+.over4  h3 {
+    color: #1db489;
+    position: relative;
+    bottom: 210px;
+    left: 190px;
+}
+.over5 {
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    color: white;
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+}
+.over5 h4 {
+    opacity: 40%;
+    position: relative;
+    bottom: 40px;
+}
+.over5 h5 {
+    font-size: 50px;
+    position: relative;
+    bottom: 90px;
+}
+.over5  h3 {
+    color: #1db489;
+    position: relative;
+    bottom: 210px;
+    left: 190px;
+}
+.over6 {
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    color: white;
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+}
+.over6 h4 {
+    opacity: 40%;
+    position: relative;
+    bottom: 40px;
+}
+.over6 h5 {
+    font-size: 50px;
+    position: relative;
+    bottom: 90px;
+}
+.over6  h3 {
+    color: #1db489;
+    position: relative;
+    bottom: 210px;
+    left: 190px;
+}
+.over7 {
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    color: white;
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+}
+.over7 h4 {
+    opacity: 40%;
+    position: relative;
+    bottom: 40px;
+}
+.over7 h5 {
+    font-size: 50px;
+    position: relative;
+    bottom: 90px;
+}
+.over7  h3 {
+    color: #c4032a;
+    position: relative;
+    bottom: 210px;
+    left: 190px;
+}
+.over8 {
+    background:#252b43;
+    border-radius: 8px;
+    padding: 25px;
+    color: white;
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+}
+.over8 h4 {
+    opacity: 40%;
+
+}
+.over8 h5 {
+    font-size: 50px;
+
+}
+.over8 h4 {
+    opacity: 40%;
+    position: relative;
+    bottom: 40px;
+}
+.over8 h5 {
+    font-size: 50px;
+    position: relative;
+    bottom: 90px;
+}
+.over8  h3 {
+    color: #c4032a;
+    position: relative;
+    bottom: 210px;
+    left: 190px;
+}
+.icon1 {
+    position: relative;
+    left: 230px;
+}
+.container3 {
+margin-left: 45px;
+position: relative;
+bottom: 150px;
+}
